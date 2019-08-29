@@ -1,1 +1,8 @@
-﻿
+﻿  Person.cpp
+c:\users\nam\source\repos\oop\connguoi\person.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Source.cpp
+c:\users\nam\source\repos\oop\connguoi\source.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Student.cpp
+c:\users\nam\source\repos\oop\connguoi\student.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  ConNguoi.vcxproj -> C:\Users\NAM\source\repos\OOP\Debug\ConNguoi.exe
