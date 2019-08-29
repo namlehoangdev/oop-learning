@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OOP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DiemDuong.cpp
+c:\users\nam\source\repos\oop\oop\diemduong.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\nam\source\repos\oop\oop\diemduong.cpp(32): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+c:\users\nam\source\repos\oop\oop\source.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  OOP.vcxproj -> C:\Users\NAM\source\repos\OOP\Debug\Diem.exe
